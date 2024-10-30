@@ -1,3 +1,5 @@
 this is the first text to file two
 
-I have added this incorrect text.
+adding header and footer
+
+adding coorect comand in bug fix
