@@ -7,3 +7,5 @@ adding coorect comand in bug fix
 i am adding this line to see the stashing feature
 
 upload to git hub
+
+neegit
